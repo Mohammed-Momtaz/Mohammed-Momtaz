@@ -35,7 +35,7 @@ A simple to-do list application that uses local storage to save tasks.
 Feel free to reach out to me via email or follow me on social media:
 
 - Email: [mohammedmomtazsharam@gmail.com](mohammedmomtazsharam@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/mohammed-momtaz-sharam)
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/mohammed-momtaz-sharam)
 
 ## Stats
 
