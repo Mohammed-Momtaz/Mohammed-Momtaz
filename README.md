@@ -4,12 +4,12 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## About Me
 
-- 🌱 I’m currently learning **React and Node.js**
+- 🌱 I’m currently learning **React**
 - 💼 I’m currently working on **improving my portfolio with new projects**
 - 👯 I’m looking to collaborate on **open-source projects**
 - 💬 Ask me about **JavaScript, CSS, and web development in general**
-- 📫 How to reach me: **mohammed@example.com**
-- ⚡ Fun fact: **I love solving puzzles and playing chess**
+- 📫 How to reach me: **mohammedmomtazsharam@gmail.com**
+- ⚡ Fun fact: ****
 
 ## Projects
 
