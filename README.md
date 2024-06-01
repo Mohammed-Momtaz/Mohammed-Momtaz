@@ -39,10 +39,14 @@ Feel free to reach out to me via email or follow me on social media:
 
 ## Stats
 
-![Mohammed-Momtaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohammed-Momtaz&show_icons=true&theme=radical)
+![Mohammed-Momtaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohammed-Momtaz&show_icons=true&theme=dark)
+
+## Streak Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Mohammed-Momtaz&theme=dark)](https://git.io/streak-stats)
 
 ## Contributions
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Momtaz&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Momtaz&layout=compact&theme=dark)
 
 Thank you for visiting my profile! Feel free to check out my repositories and connect with me.
